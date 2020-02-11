@@ -1,1 +1,1 @@
-# lyrics_api
+# Learning ReactJS building an SPA for lyrics api
